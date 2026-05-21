@@ -5,7 +5,7 @@ using namespace std;
 
 // This function shows the options to the user
 void myMenu() {
-    cout << "\n--- Welcome to ATM ---" << endl;
+    cout << "\n--- Momen Digital Banking ---" << endl;
     cout << "1. View Balance" << endl;
     cout << "2. Deposit" << endl;
     cout << "3. Withdraw" << endl;
@@ -15,7 +15,7 @@ void myMenu() {
 }
 
 int main() {
-    int myPin = 1234; // You can change this PIN
+    int myPin = 0114; // You can change this PIN
     int inputPin;
     int tries = 0;
     int balance = 0;
