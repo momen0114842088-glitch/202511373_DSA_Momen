@@ -15,7 +15,7 @@ void myMenu() {
 }
 
 int main() {
-    int myPin = 0114; // You can change this PIN
+    int myPin = 7114; // You can change this PIN
     int inputPin;
     int tries = 0;
     int balance = 0;
